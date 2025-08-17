@@ -1,4 +1,6 @@
-# WTFiX - Instant Text Correction Tool
+<img src="WTFiX.png" alt="WTFiX Icon" width="50">
+
+## WTFiX - Instant Text Correction Tool
 
 *An AutoHotkey v2 script to fix grammar and spelling in any application using the Gemini AI.*
 
@@ -6,7 +8,7 @@ A simple but powerful tool that lets you select any text, press a hotkey **(Alt+
 
 ---
 
-### ## See it in Action 🚀
+### See it in Action 🚀
 
 ![WTFiX Demo GIF](https://github.com/abhijeetydv/WTFiX/raw/main/demo.gif)
 
@@ -14,7 +16,7 @@ A simple but powerful tool that lets you select any text, press a hotkey **(Alt+
 
 ---
 
-### ## Features
+### Features
 
 * **Universal:** Works in any text field on Windows.
 * **Fast:** Get corrections in seconds.
@@ -23,7 +25,7 @@ A simple but powerful tool that lets you select any text, press a hotkey **(Alt+
 
 ---
 
-### ## Setup & Installation
+### Setup & Installation
 
 1.  **Download:** Go to the [**Releases page**](https://github.com/abhijeetydv/WTFiX/releases) and download the latest `.zip` file.
 2.  **Unzip:** Unzip the folder to a permanent location on your computer.
@@ -38,7 +40,7 @@ A simple but powerful tool that lets you select any text, press a hotkey **(Alt+
 
 ---
 
-### ## Usage
+### Usage
 
 1.  Select any text you've written in a browser, notepad, email, etc.
 2.  Press **Alt + Q**.
@@ -46,7 +48,7 @@ A simple but powerful tool that lets you select any text, press a hotkey **(Alt+
 
 ---
 
-### ## Philosophy & Credits
+### Philosophy & Credits
 
 This project was "vibecoded"—born from an idea I had and assembled by integrating the fantastic work of the open-source community. Full credit for the core code components goes to their brilliant authors.
 
