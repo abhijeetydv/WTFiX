@@ -8,14 +8,6 @@ A simple but powerful tool that lets you select any text, press a hotkey **(Alt+
 
 ---
 
-### See it in Action 🚀
-
-![WTFiX Demo GIF](https://github.com/abhijeetydv/WTFiX/raw/main/demo.gif)
-
-*(To create a GIF like this, you can record a short screen video of the script working, then use a free online tool like `ezgif.com` to convert the video to a GIF. Upload the `demo.gif` file to your GitHub repository for it to display here.)*
-
----
-
 ### Features
 
 * **Universal:** Works in any text field on Windows.
@@ -59,6 +51,6 @@ This project was "vibecoded"—born from an idea I had and assembled by integrat
 
 ---
 
-### ## License
+### License
 
 This project is shared under the **MIT License**. See the `LICENSE` file for details.
